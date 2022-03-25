@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/todos/static/css/main.5a7cef22.css",
+    "main.js": "/todos/static/js/main.92a5f8ae.js",
+    "index.html": "/todos/index.html",
+    "static/media/circle-xmark-regular.svg": "/todos/static/media/circle-xmark-regular.ff5ad85b43f614f5634e3f3148dc7ad4.svg",
+    "static/media/circle-plus-solid.svg": "/todos/static/media/circle-plus-solid.82050969d0077840eb05c037bfe8fe74.svg",
+    "static/media/check-solid.svg": "/todos/static/media/check-solid.65b7782172ce27858b8c625ce213d1fe.svg",
+    "main.5a7cef22.css.map": "/todos/static/css/main.5a7cef22.css.map",
+    "main.92a5f8ae.js.map": "/todos/static/js/main.92a5f8ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a7cef22.css",
+    "static/js/main.92a5f8ae.js"
+  ]
+}
